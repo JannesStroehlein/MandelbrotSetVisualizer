@@ -8,3 +8,7 @@
 ## Planned Features
 - ability to show pathes and orbits for specific start points
 - options menu to change iteration depth at runtime
+
+## Screenshots
+![alt text](https://raw.githubusercontent.com/JannesStroehlein/MandelbrotSetVisualizer/master/Screenshots/Screenshot%202021-12-16%20205842.png "Zoomed all the way out")
+![alt text](https://raw.githubusercontent.com/JannesStroehlein/MandelbrotSetVisualizer/master/Screenshots/Screenshot%202021-12-16%20205939.png "Zoomed in")
